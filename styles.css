@@ -1,1 +1,24 @@
-/*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+h1,h2{
+	text-align:center;
+}
+#musiclist{
+	background-color:white;
+	border-style: solid;
+	border-radius: 10px;
+	border-width:2px;
+}
+ul{
+	list-style-type: none;
+}
+#videos{
+	background-color: rgb(255, 255, 255);
+	padding: 100px;
+	border-radius: 10px;
+	border-style: solid;
+	border-width:2px;
+	margin: 60px;
+	margin-top: 3px;
+}
